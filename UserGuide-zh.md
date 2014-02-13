@@ -16,6 +16,10 @@ Micheal 是某家公司的普通职员; 目前有位猎头给他推荐了一家�
 8. Micheal又想到新公司的`提升空间大`, 这个感觉跟`工作压力大`差不多重要, 所以进入`同级管理`页面并添加
 9. 新公司的`企业文化好`, Michael把这个因素添加在`工作压力大`下面; 原因添加的差不多了![p8][8]
 10. 添加完因素后, 可以长按右上角的`添加`进入`比重分析页面`![p9][9]
+11. 接着, Michael又想到了自身的状况, 然后他新建了一个组, 名叫`我的状况`![p10][10]
+12. 点击进入`我的状况`的详情页面, 开始添加因素; Michael想到了自身的`体能`, `精力`和`对新公司环境的适应力`, 然后添加了3个因素![p11][11] ![p12][12]
+13. 开始要做决定了; 回到`做决定`页面, 长按`添加`进入所有`因素组页面`![p13][13] ![p14][14]
+14. 点击`添加到任务列表`会弹出一个对话框, 输入`去新公司`后点确定, 接着App会自动帮你打开左侧菜单栏, 然后点击`任务列表` ![p15][15] ![p16][16] ![p17][17]
 
 
 
@@ -28,7 +32,14 @@ Micheal 是某家公司的普通职员; 目前有位猎头给他推荐了一家�
 [7]: http://quickstart.mingminy.com/make_decisions/img/zh/p7.png "同级管理介绍"
 [8]: http://quickstart.mingminy.com/make_decisions/img/zh/p8.png "因素组效果图"
 [9]: http://quickstart.mingminy.com/make_decisions/img/zh/p9.png "比重分析页面"
-
+[10]: http://quickstart.mingminy.com/make_decisions/img/zh/p10.png "组概要页面"
+[11]: http://quickstart.mingminy.com/make_decisions/img/zh/p11.png "效果图"
+[12]: http://quickstart.mingminy.com/make_decisions/img/zh/p12.png "效果图"
+[13]: http://quickstart.mingminy.com/make_decisions/img/zh/p13.png "详细说明图"
+[14]: http://quickstart.mingminy.com/make_decisions/img/zh/p14.png "效果图"
+[15]: http://quickstart.mingminy.com/make_decisions/img/zh/p15.png "效果图"
+[16]: http://quickstart.mingminy.com/make_decisions/img/zh/p16.png "详细说明图"
+[17]: http://quickstart.mingminy.com/make_decisions/img/zh/p17.png "详细说明图"
 
 
 
